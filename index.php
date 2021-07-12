@@ -1,21 +1,7 @@
 <?php include("header.php");?>
 
 
-<!-- HEADER -->
 
-<header class="container-fluid">
-    <div class="row py-5 px-3">
-        <div class="col-md-6 d-flex flex-column justify-content-center align-items-start">
-            <h1><span>Music</span> for everyone</h1>
-            <p class="py-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias ipsa minima quam cupiditate consectetur delectus aut veniam provident voluptates excepturi magnam, quas harum temporibus, laudantium ratione tempore praesentium saepe? Distinctio
-                pariatur atque blanditiis veritatis sint ab molestiae hic fuga culpa?</p>
-            <button class="btn">Start Free Trial</button>
-        </div>
-        <div class="col-md-6">
-            <img src="img/header.png" alt="">
-        </div>
-    </div>
-</header>
 
 
 <!-- CTA -->
